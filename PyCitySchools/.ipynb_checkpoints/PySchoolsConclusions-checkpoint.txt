@@ -1,0 +1,3 @@
+1. Large sized schools had the worst overall passing rate, at 56.57%, regardless of school type. 
+2. Higher amounts of school spending per student did not correlate to higher math scores, reading scores, or overall passing percentages. 
+3. District type schools had far worse outcomes on every measure compared to Charter school types. 
